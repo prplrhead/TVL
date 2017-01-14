@@ -9,9 +9,11 @@ namespace web
 {
     public partial class Default : System.Web.UI.Page
     {
+        protected string test;
+
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            test = "Hello World!";
         }
     }
 }
