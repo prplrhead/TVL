@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="TVL_DB">
+  <DataContextMoniker Name="/TVL_DBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="1cc31d60-03b5-4360-9bac-488aa778ddb7" absoluteBounds="1.625, 1.375, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/TVL_DBDataContext/Person" />
+      <nestedChildShapes>
+        <elementListCompartment Id="791fc51b-72f1-45e4-80ea-45b7fe40fc62" absoluteBounds="1.6400000000000001, 1.835, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="89cd1584-1c48-4d40-9ef1-22bd266693c3" absoluteBounds="5.125, 1.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/TVL_DBDataContext/Source" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1b474fd2-7c7a-4928-a366-753fcca401fb" absoluteBounds="5.14, 2.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a0ee1bfa-e579-489e-b5c3-cb13262b1815" absoluteBounds="4.25, 4, 2, 2.5401025390625">
+      <DataClassMoniker Name="/TVL_DBDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c8fe1036-b04f-4f8c-a6cf-7e2586f49407" absoluteBounds="4.265, 4.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
